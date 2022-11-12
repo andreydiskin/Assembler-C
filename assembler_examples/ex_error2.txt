@@ -1,0 +1,14 @@
+
+as_examples/ex_error2.as
+===============================
+Starting to compile ..
+The label 'not' is invalid  - line 3
+The label 'add' is invalid  - line 4
+The label '21lbl' is invalid  - line 5
+too many parameters ','  - line 6
+dest operand is not valid - command 'inc' cannot use immediate addressing mode  - line 7
+The label 'mov' is invalid  - line 8
+dest operand is not valid - command 'bne' cannot use register addressing mode  - line 9
+too many parameters '#1'  - line 10
+FAILED
+

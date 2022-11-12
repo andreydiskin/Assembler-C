@@ -1,0 +1,26 @@
+
+as_examples/ex_error1.as
+===============================
+Starting to compile ..
+dest operand is not valid - command 'bne' cannot use immediate addressing mode  - line 3
+dest operand is not valid - command 'clr' cannot use immediate addressing mode  - line 4
+dest operand is not valid - command 'dec' cannot use relative addressing mode  - line 5
+dest operand is not valid - command 'jsr' cannot use register addressing mode  - line 6
+string should start with "  - line 7
+The label '#LBL' is invalid  - line 8
+too many parameters 'r1'  - line 9
+unknown command 'sababa'  - line 10
+The label '#lbl' is invalid  - line 11
+dest operand is not valid - command 'not' cannot use immediate addressing mode  - line 12
+too many parameters 'hey'  - line 13
+src operand is not valid - command 'lea' cannot use register addressing mode  - line 14
+unknown command 'myadd'  - line 15
+too many parameters '"'  - line 16
+too many parameters '%BLUE'  - line 17
+unknown command '.str'  - line 18
+dest operand is not valid - command 'mov' cannot use immediate addressing mode  - line 19
+dest operand is not valid - command 'jsr' cannot use register addressing mode  - line 20
+dest operand is not valid - command 'inc' cannot use immediate addressing mode  - line 21
+dest operand is not valid - command 'prn' cannot use relative addressing mode  - line 22
+FAILED
+
